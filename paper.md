@@ -7,10 +7,14 @@ tags:
   - uncertainty
   - robotics
 authors:
-  - name: Ryrant
+  - name: Chenghan Song
+    affiliation: 1
+  - name: Guonan Xie
+    affiliation: 1
+  - name: Chenxi Kang
     affiliation: 1
 affiliations:
-  - name: Independent Researcher
+  - name: Jinan University, Guangzhou, China
     index: 1
 date: 2026-04-26
 bibliography: paper.bib
